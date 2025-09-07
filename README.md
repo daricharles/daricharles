@@ -31,8 +31,8 @@
 > *(Click on the repo links above to explore more!)*  
 
 ## 📊 GitHub Stats
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=daricharles&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daricharles&layout=compact&theme=tokyonight)
 
 ## 🤝 Let’s Connect
 - 📫 Email: **foresightafricanetwork@gmail.com**  
